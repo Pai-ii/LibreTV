@@ -1,0 +1,10 @@
+name = "libretv"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[vars]
+PASSWORD = "libretv123"
+DEFAULT_SOURCES = '[{"name":"非凡资源","url":"https://api.ffzyapi.com/api.php/provide/vod"}]'
+REQUEST_TIMEOUT = "8000"
+MAX_RETRIES = "1"

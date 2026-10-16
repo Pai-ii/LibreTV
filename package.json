@@ -1,4 +1,3 @@
-"@cloudflare/next-on-pages": "^1.13.16",
 {
   "name": "libretv",
   "version": "2.16.12",
@@ -28,6 +27,7 @@
     "zustand": "^5.0.2"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.16",
     "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
